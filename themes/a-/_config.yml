@@ -1,0 +1,15 @@
+menu:
+  首页: /
+  归档: /archives
+  生活: /lifes
+
+# duoshuo comment
+duoshuo: false
+duoshuo_name:
+
+# disqus comment
+disqus: false
+disqus_shortname:
+
+# google analytics
+googleTrackId:
